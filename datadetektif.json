@@ -45,10 +45,10 @@
     },
     {
       "id": 4,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "name_category": "Yukiko Kudo",
+      "image": "https://godras.miemiebrownie.com/detektif/kategori/Yukiko%20Kudo.jpg"
 
-    },
+    },    
     {
       "id": 5,
       "name_category": "Genta Kojima",
@@ -65,12 +65,6 @@
       "id": 7,
       "name_category": "Ran Mouri",
       "image": "https://godras.miemiebrownie.com/detektif/kategori/Ran%20Mouri.jpg"
-
-    },	
-    {
-      "id": 8,
-      "name_category": "Yukiko Kudo",
-      "image": "https://godras.miemiebrownie.com/detektif/kategori/Yukiko%20Kudo.jpg"
 
     }	
   ],
